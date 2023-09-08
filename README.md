@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @HerbertNtim
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning html, css, javascript, and python
-- 💞️ I’m looking to collaborate on building up knowledge
-- 📫 How to reach me htpps://wa.me+233559073518.
+<h1 align="center">Hi 👋, I'm Herbert</h1>
+<h3 align="center">A passionate frontend developer from Ghana</h3>
 
-<!---
-HerbertNtim/HerbertNtim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **react, tailwindcss, framer-motion, javascript, typescript**
+
+- 💬 Ask me about **fullstack, mern, next.js**
+
+- 📫 How to reach me **herbertntim15@gmail.com** www.linkedin.com/in/herbertntim
+
+- ⚡ Fun fact **Let us connect**
