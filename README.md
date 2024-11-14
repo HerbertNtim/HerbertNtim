@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Herbert Ntim, a recent computer engineering graduant.<br>I am currently looking for a full stack developer role, working remotely from anywhere. 
+My name is Herbert Ntim, a recent computer engineering graduant.<br>I am currently working at CoE-Tech Support and Learning more in software engineering. 
 
 
 ## 🌐 Socials:
