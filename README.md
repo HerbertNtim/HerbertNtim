@@ -1,6 +1,5 @@
 # 💫 About Me:
-My name is Herbert Ntim, a recent computer engineering graduant.<br>I am currently working at CoE-Tech Support and Learning more in software engineering. 
-
+My name is Herbert Ntim, and I am a recent graduate in Computer Engineering. <br /> I am currently working at CoE-Tech Support while expanding my skills and knowledge in software engineering.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/herbertntim//) 
