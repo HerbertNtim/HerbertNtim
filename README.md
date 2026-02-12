@@ -23,7 +23,7 @@ I'm Herbert, a passionate coder and aspiring full-stack developer. I spend a lot
   </tr>
   <tr>
     <td valign="top">
-    <a href="https://github.com/HerbertNtim/react-admin-dashboard"><img width="282" src="https://github.com/HerbertNtim/finished_projects_images/blob/main/react-admin-dashboard.png"></a>
+    <a href="https://github.com/HerbertNtim/heart-disease_project"><img width="282" src="https://github.com/HerbertNtim/finished_projects_images/blob/main/correlation_matrix.png"></a>
     </td>
     <td valign="top">
     <a href="https://github.com/HerbertNtim/react-admin-dashboard"><img width="282" src="https://github.com/HerbertNtim/finished_projects_images/blob/main/react-admin-dashboard.png"></a>
