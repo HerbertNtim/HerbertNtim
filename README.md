@@ -1,140 +1,23 @@
-# Hi 👋 I'm Herbert Ntim
+Software engineer with a background in Computer Engineering from KNUST, Ghana. I build web applications using JavaScript, TypeScript, React, and Next.js, and use Python for software development and hands-on machine learning projects. I've worked on examination management and automation systems supporting over 9,000 students. I'm currently learning machine learning and deep learning through practical projects.
 
-💻 **Full-Stack Developer | Data Science Enthusiast**
+## Currently building
 
-I'm a passionate developer who enjoys building scalable web applications and exploring data-driven solutions.  
-My work combines **full-stack development and data science**, using modern web technologies and machine learning to build impactful projects.
+- **[Data Science](https://github.com/HerbertNtim/dataScience-ML)** — Learning Data Science and Machine Learning through hands on projects and practice.
 
-- 🌱 Currently learning **backend architecture and system design**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 📊 Exploring **machine learning with Python**
-- 🤝 Open to **collaboration and open-source projects**
+## Open source
 
----
+- **[Zero To Mastery](https://github.com/zero-to-mastery)** — Contributed to the open-source community through the Zero To Mastery community.
 
-# 🌐 Connect With Me
+## Products
+- **[Learnify LMS](https://learnify-lms-ten.vercel.app/)** — A learning management system.
+- **[React Admin Dashboard](https://github.com/HerbertNtim/react-admin-dashboard)** — An administrative dashboard built with React.
+- **[Readora Voice](https://github.com/HerbertNtim/evently-app)** — Built an AI-powered voice companion that lets users upload documents and interact with their content through natural voice conversations. Developed with Next.js, TypeScript, MongoDB, Clerk, and Vapi AI, with PDF processing and document management features.
+- **[Heart Disease Prediction](https://github.com/HerbertNtim/heart-disease_project)** — A Machine Learning Project. Developed a predictive classification model using health-related data to explore patterns associated with heart disease. Applied data preprocessing, feature analysis, model training, and evaluation techniques.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/hntim">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/>
-</a>
+## Writing
 
-<a href="https://github.com/HerbertNtim">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/>
-</a>
-</p>
+I don't have any published technical articles to list yet.
 
----
+## Elsewhere
 
-# 🚀 Projects
-
-<table>
-<tr>
-<td align="center">
-
-### 📊 React Admin Dashboard
-
-<a href="https://github.com/HerbertNtim/react-admin-dashboard">
-<img width="280" src="https://github.com/HerbertNtim/finished_projects_images/blob/main/react-admin-dashboard.png">
-</a>
-
-React admin dashboard built with **React and Tailwind CSS**.
-
-</td>
-
-<td align="center">
-
-### 🌐 NetView
-
-<a href="https://github.com/HerbertNtim/netview">
-<img width="280" src="https://github.com/HerbertNtim/finished_projects_images/blob/main/netview%20(2).png">
-</a>
-
-A **network visualization tool** for exploring connections and data flows.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ❤️ Heart Disease Prediction
-
-<a href="https://github.com/HerbertNtim/heart-disease_project">
-<img width="280" src="https://github.com/HerbertNtim/finished_projects_images/blob/main/correlation_matrix.png">
-</a>
-
-Machine learning project predicting **heart disease risk using medical data**.
-
-</td>
-
-<td align="center">
-
-### 📈 Data Analysis Dashboard *(Future Project)*
-
-<a href="#">
-<img width="280" src="https://via.placeholder.com/280x200.png?text=Coming+Soon">
-</a>
-
-A data-driven dashboard combining **React + Python + ML predictions**.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠 Tech Stack
-
-## Programming Languages
-
-- JavaScript
-- TypeScript
-- Python
-- C
-- C++
-
----
-
-## Frontend
-
-- React
-- HTML5
-- CSS3
-- TailwindCSS
-- Bootstrap
-
----
-
-## Backend
-
-- Node.js
-- Express
-- REST APIs
-
----
-
-## Data Science
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- Jupyter Notebook
-- Matplotlib
-- Data Analysis
-
----
-
-## Tools
-
-- Git
-- GitHub
-- GitHub Actions
-- VS Code
-
----
-
-
-⭐ **If you like my work, consider following me or starring a repository!**
-
-Thanks for visiting! 😊
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](https://www.linkedin.com/in/hntim/) · [X](https://x.com/hntim0829)
