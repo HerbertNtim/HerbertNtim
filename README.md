@@ -1,4 +1,4 @@
-Software engineer with a background in Computer Engineering from KNUST, Ghana. I build web applications using JavaScript, TypeScript, React, and Next.js, and use Python for software development and hands-on machine learning projects. I've worked on examination management and automation systems supporting over 9,000 students. I'm currently learning machine learning and deep learning through practical projects.
+Software engineer with 5+ years in building applications. I build web applications using JavaScript, TypeScript, React, and Next.js, and use Python for software development and hands-on machine learning projects. I've worked on examination management and automation systems supporting over 9,000 students. I'm currently learning machine learning and deep learning through practical projects.
 
 ## Currently building
 
