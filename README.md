@@ -1,13 +1,14 @@
 Software engineer with 5+ years in building applications. I build web applications using JavaScript, TypeScript, React, and Next.js, and use Python for software development and hands-on machine learning projects. I've worked on examination management and automation systems supporting over 9,000 students. I'm currently learning machine learning and deep learning through practical projects.
 
-## Currently building
+## Currently Building
 
-- **[Data Science](https://github.com/HerbertNtim/dataScience-ML)** — Learning Data Science and Machine Learning through hands on projects and practice.
+- **[Open Source Radar](https://github.com/TanbirRamim/open-source-radar)** — Contributing to a practical guide that helps beginners navigate open-source contributions, from choosing their first project and finding issues to making successful pull requests. Also contributing to making the guide accessible to a wider audience through localization.
 
-## Open source
+## Open Source
 
-- **[Zero To Mastery](https://github.com/zero-to-mastery)** — Contributed to the open-source community through the Zero To Mastery community.
-
+- **[Zero To Mastery](https://github.com/zero-to-mastery)** — Contributed to community-driven open-source projects through the Zero To Mastery community.
+- **[Open Source Radar](https://github.com/TanbirRamim/open-source-radar)** — Contributing to a practical guide that helps beginners get started with open source, understand contribution workflows, and make their first pull requests. Also contributing to website improvements and localization.
+  
 ## Products
 - **[Learnify LMS](https://learnify-lms-ten.vercel.app/)** — A learning management system.
 - **[React Admin Dashboard](https://github.com/HerbertNtim/react-admin-dashboard)** — An administrative dashboard built with React.
